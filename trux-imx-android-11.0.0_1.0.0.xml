@@ -50,10 +50,10 @@
   <project path="vendor/nxp/vpu_wrapper" name="imx-vpuwrap" remote="imx-proprietary" revision="refs/tags/android-11.0.0_1.0.0" />
 
   <!-- For Truxgit .-->
-  <project path="vendor/trucrux/kernel_imx" name="linux_trucrux" remote="trux2-github" revision="trux_android-11.0.0_1.0.0" />
-  <project path="vendor/trucrux/uboot-imx" name="uboot" remote="trux2-github" revision="trux_android-11.0.0_1.0.0" />
+  <project path="vendor/trucrux/kernel_imx" name="linux-imx-trucrux" remote="trux-github" revision="trux_android-11.0.0_1.0.0" />
+  <project path="vendor/trucrux/uboot-imx" name="linux-imx-trucrux" remote="trux-github" revision="trux_android-11.0.0_1.0.0" />
   <project path="vendor/trucrux/bcm_4343w_fw" name="bcm_4343_fw" remote="trux-github" revision="android-11.0.0_1.0.0" />
-  <project path="device/trucrux/" name="Trucrux_android" remote="trux2-github" revision="trux_android-11.0.0_1.0.0" />
+  <project path="device/trucrux/" name="trucrux-android" remote="trux-github" revision="trux_android-11.0.0_1.0.0" />
   <project path="vendor/trucrux/can-utils" name="linux-can/can-utils" remote="github" revision="791890542ac1ce99131f36435e72af5635afc2fa" />
 
   <project path="device/nxp" name="device/fsl" remote="android-imx-orig" revision="refs/tags/android-11.0.0_1.0.0" >
