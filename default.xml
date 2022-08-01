@@ -29,5 +29,5 @@
   <project remote="QT5"       revision="b4d24d70aca75791902df5cd59a4f4a54aa4a125" upstream="dunfell"           name="meta-qt5"                path="sources/meta-qt5"/>
   <project remote="sbabic"    revision="72b493c7ed9f5e1fb4ae1ce180f913acc29748c5" upstream="dunfell"           name="meta-swupdate"           path="sources/meta-swupdate"/>
   <project remote="yocto"     revision="758868633be479f38d19c3602be0094289fc1a75" upstream="dunfell"           name="meta-virtualization"     path="sources/meta-virtualization"/>
-  <project remote="trucrux"   revision="bbaf4d7b0b35c8fb6f0617c46f1f371dc7dfb791" upstream="dunfell"           name="meta-trucrux"            path="sources/meta-trucrux"/>
+  <project remote="trucrux"   revision="de876c544a2611919ed5cb9bfb97137aa51b3c59" upstream="dunfell"           name="meta-trucrux"            path="sources/meta-trucrux"/>
 </manifest>
